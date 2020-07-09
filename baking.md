@@ -27,8 +27,7 @@ sudo apt-get install build-essential git m4 unzip rsync curl libev-dev libgmp-de
 
 ```bash
 adduser tezos
-adduser tezos sudo
-su - tezos
+sudo su - tezos
 ```
 
 ### Install the node from sources
